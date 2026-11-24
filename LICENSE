@@ -1,6 +1,12 @@
+# Repository licensing
+
+Original catalog descriptions, taxonomy and documentation are offered under Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/legalcode
+
+Software in tools/ and the generated web catalog's original interface code are offered under the MIT License below. The catalog's underlying third-party names, trademarks, links and media are not relicensed. Third-party assets remain governed by their respective owners and applicable law.
+
 MIT License
 
-Copyright (c) 2026 Neo
+Copyright (c) 2026 Visual Research Library contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

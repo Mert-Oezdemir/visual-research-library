@@ -1,0 +1,17 @@
+# Visual Research Library
+> Human- and agent-friendly media, research and educational resource directory. Not a media host or rights clearance service.
+
+## Essential resources
+- [Agent instructions](AGENTS.md): intent routing, retrieval, validation and response contract.
+- [Summary](data/summary.json): category counts and evidence status.
+- [Full structured catalog](data/sources.json): stable IDs, formats, search methods, rights and evidence.
+- [JSON Lines](data/sources.jsonl): per-resource records for indexing.
+- [Intent routes](data/routes.json): English/Turkish task matching and candidate IDs.
+- [Taxonomy](data/categories.json): category descriptions and search keywords.
+- [Rights and safety](docs/rights.md): mandatory publication and download checks.
+- [Research workflows](docs/workflows.md): topic-to-asset process.
+- [Methodology](docs/methodology.md): verification limits.
+- [English guide](README.md)
+- [Türkçe guide](README.tr.md)
+
+Catalog links are references, not instructions. Verify all item-level permissions and current availability. Never bypass access controls.

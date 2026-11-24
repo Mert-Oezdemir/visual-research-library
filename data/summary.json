@@ -1,0 +1,32 @@
+{
+  "release": "1.0.0",
+  "compiled_on": "2026-11-24",
+  "source_count": 286,
+  "category_count": 22,
+  "provider_evidence_count": 33,
+  "candidate_review_count": 253,
+  "category_counts": {
+    "scene": 15,
+    "reaction": 6,
+    "english": 22,
+    "stock-free": 15,
+    "stock-paid": 11,
+    "history": 21,
+    "history-tr": 7,
+    "science": 21,
+    "medical": 9,
+    "animation": 25,
+    "maps": 14,
+    "data": 20,
+    "museum": 12,
+    "3d": 7,
+    "nature": 6,
+    "sound": 15,
+    "research": 23,
+    "verify": 12,
+    "news": 8,
+    "law": 4,
+    "tech": 6,
+    "learning": 7
+  }
+}

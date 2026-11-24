@@ -1,0 +1,237 @@
+[
+  {
+    "intent": "Exact dialogue / tam replik",
+    "match": "replik quote dialogue phrase line cümle ifade",
+    "ids": [
+      "playphrase-me",
+      "clip-cafe",
+      "yarn",
+      "filmot",
+      "quodb"
+    ],
+    "query": "\"I can't believe it\"",
+    "note": "Find exact wording; reuse is not granted."
+  },
+  {
+    "intent": "Emotion or visual metaphor / duygu veya metafor",
+    "match": "duygu emotion metaphor metafor çağrışım overthinking şaşkın reaction utanç öfke",
+    "ids": [
+      "flim",
+      "vlipsy",
+      "giphy",
+      "pexels",
+      "pixabay",
+      "storyset",
+      "find-any-footage"
+    ],
+    "query": "confused person; hamster wheel metaphor; brain overload",
+    "note": "Prefer visual action for stock; use film references for discovery only."
+  },
+  {
+    "intent": "Monetizable B-roll / yayınlanabilir ara görüntü",
+    "match": "b-roll stock monetized commercial ticari telifsiz video footage stok",
+    "ids": [
+      "pexels",
+      "pixabay",
+      "mixkit",
+      "find-any-footage",
+      "wikimedia-commons",
+      "blender-studio-films"
+    ],
+    "query": "industrial factory workers; busy city timelapse",
+    "note": "Verify individual asset, attribution, releases and country."
+  },
+  {
+    "intent": "English listening / İngilizce dinleme",
+    "match": "ingilizce english aksan accent telaffuz pronunciation listening shadowing deyim",
+    "ids": [
+      "youglish",
+      "voscreen",
+      "playphrase-me",
+      "cake",
+      "ejoy-english",
+      "language-reactor",
+      "british-council-learnenglish"
+    ],
+    "query": "give me a break; American accent",
+    "note": "Use for learning; do not infer redistribution permission."
+  },
+  {
+    "intent": "History / tarih",
+    "match": "history tarih arşiv archival documentary belgesel historical footage old",
+    "ids": [
+      "find-any-footage",
+      "prelinger-archives",
+      "us-national-archives",
+      "library-of-congress-national-screening-room",
+      "europeana",
+      "british-pathe"
+    ],
+    "query": "1920s street market; original newsreel",
+    "note": "Check date, geography, provenance, and distinguish reconstruction from original footage."
+  },
+  {
+    "intent": "Türkiye / Osmanlı",
+    "match": "türkiye osmanlı cumhuriyet ottoman istanbul atatürk türk",
+    "ids": [
+      "film-mirasim",
+      "trt-arsiv",
+      "salt-research",
+      "ataturk-kitapligi",
+      "devlet-arsivleri",
+      "europeana"
+    ],
+    "query": "eski İstanbul; Ottoman railway",
+    "note": "Official access does not guarantee republication rights."
+  },
+  {
+    "intent": "Scientific process / bilimsel süreç",
+    "match": "science bilim physics fizik chemistry kimya mekanik process animation nasıl çalışır engineering",
+    "ids": [
+      "wikimedia-animated-diagrams",
+      "nasa-scientific-visualization-studio",
+      "phet",
+      "openstax",
+      "manim-community",
+      "blender"
+    ],
+    "query": "four stroke engine animation; magnetic field",
+    "note": "Check scientific accuracy; PhET regular HTML simulations have NC terms."
+  },
+  {
+    "intent": "Anatomy / medical / anatomi",
+    "match": "brain beyin medical tıp anatomy anatomi kalp heart dna hücre biology sağlık",
+    "ids": [
+      "servier-medical-art",
+      "hhmi-biointeractive",
+      "cdc-public-health-image-library",
+      "nigms-image-and-video-gallery",
+      "anatomytool",
+      "pubmed"
+    ],
+    "query": "synapse; DNA replication; heart cross section",
+    "note": "Use medically accurate visuals, avoid private patient information and verify claims."
+  },
+  {
+    "intent": "Maps and borders / harita",
+    "match": "map harita geography coğrafya border sınır empire imparatorluk satellite uydu",
+    "ids": [
+      "wikimedia-animated-maps",
+      "david-rumsey-map-collection",
+      "openhistoricalmap",
+      "natural-earth",
+      "qgis",
+      "google-earth-studio"
+    ],
+    "query": "Ottoman Empire 1683 map; changing borders",
+    "note": "Historical boundaries are approximations; preserve attribution and dates."
+  },
+  {
+    "intent": "Data and charts / veri",
+    "match": "data veri chart grafik istatistik statistics economy ekonomi nüfus inflation enflasyon",
+    "ids": [
+      "our-world-in-data",
+      "world-bank-open-data",
+      "eurostat",
+      "fred",
+      "flourish",
+      "datawrapper"
+    ],
+    "query": "inflation by year; life expectancy",
+    "note": "Check units, methodology, dates and source license; prefer your own chart."
+  },
+  {
+    "intent": "Academic evidence / akademik kanıt",
+    "match": "research araştırma akademik paper makale study tez evidence psychology psikoloji",
+    "ids": [
+      "openalex",
+      "google-scholar",
+      "semantic-scholar",
+      "pubmed",
+      "cochrane-library",
+      "core",
+      "dergipark"
+    ],
+    "query": "systematic review cognitive bias",
+    "note": "Read originals, distinguish correlation and causation, check retractions."
+  },
+  {
+    "intent": "3D and historical objects / üç boyutlu nesne",
+    "match": "3d model artifact fosil fossil sculpture modelleme nesne",
+    "ids": [
+      "smithsonian-3d",
+      "poly-haven",
+      "sketchfab",
+      "open-heritage-3d",
+      "morphosource"
+    ],
+    "query": "Roman statue; dinosaur skull",
+    "note": "Check model license, privacy and provenance."
+  },
+  {
+    "intent": "Sound / ses",
+    "match": "sound ses audio music müzik sfx efekt ambience",
+    "ids": [
+      "freesound",
+      "youtube-audio-library",
+      "pixabay-music-and-sfx",
+      "mixkit-sound-effects",
+      "zapsplat"
+    ],
+    "query": "crowd murmur; documentary ambient piano",
+    "note": "Check composition, recording and sync rights; save download evidence."
+  },
+  {
+    "intent": "Verification / doğrulama",
+    "match": "verify doğrulama gerçek fake fact check provenance virüs telif",
+    "ids": [
+      "google-fact-check-explorer",
+      "tineye",
+      "invid-verification-plugin",
+      "wayback-machine",
+      "teyit",
+      "virustotal"
+    ],
+    "query": "reverse image; original publication; file hash",
+    "note": "Do not upload sensitive files to external scanners; results do not prove safety."
+  },
+  {
+    "intent": "News and speech / haber ve konuşma",
+    "match": "news haber speech konuşma politics siyaset current gündem",
+    "ids": [
+      "reuters",
+      "associated-press",
+      "un-web-tv",
+      "european-parliament-multimedia-centre",
+      "ap-archive"
+    ],
+    "query": "official speech date and location",
+    "note": "Check latest reporting and licensing; official speech text and recording rights differ."
+  },
+  {
+    "intent": "Law / mevzuat",
+    "match": "law legal hukuk yasa mevzuat kanun regulation",
+    "ids": [
+      "eur-lex",
+      "gesetze-im-internet",
+      "mevzuat-bilgi-sistemi",
+      "wipo-lex"
+    ],
+    "query": "copyright exceptions current consolidated text",
+    "note": "Check jurisdiction, effective date and official version."
+  },
+  {
+    "intent": "Technology / teknoloji",
+    "match": "technology teknoloji patent software yazılım computer bilgisayar technical teknik",
+    "ids": [
+      "google-patents",
+      "espacenet",
+      "mdn-web-docs",
+      "github",
+      "computer-history-museum",
+      "ifixit"
+    ],
+    "query": "first telephone patent diagram",
+    "note": "Patent disclosure is not automatically copyright or patent clearance."
+  }
+]

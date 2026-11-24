@@ -1,0 +1,287 @@
+# category|name|url|access|reuse|formats|search|description|example query|license URL (optional)
+scene|PlayPhrase.me|https://www.playphrase.me/|freemium|discovery|video,subtitle|quote,filters|Find spoken film and television phrases in context; useful for pronunciation and matching dialogue.|I can't believe it
+scene|Clip.Cafe|https://clip.cafe/|freemium|discovery|video,subtitle|quote,title,filters|Search movie lines and filter by actor, character, genre, year or duration; identify original scene.|What have I done?
+scene|YARN|https://getyarn.io/|free|discovery|video,gif|quote,keywords|Short movie, TV and music-video reactions indexed by dialogue; check availability.|I give up
+scene|Vlipsy|https://vlipsy.com/|unknown|discovery|video|keywords,emotion|Short reaction and meme clips with sound; availability needs rechecking.|facepalm
+scene|Flim|https://flim.ai/|freemium|discovery|video,image|semantic,filters|Visual reference search for cinematic scenes, atmosphere, composition and action.|lonely person in rain
+scene|ShotDeck|https://shotdeck.com/|paid|discovery|image,video|keywords,filters|Cinematic frame reference database; clip export available for some commercial and music-video materials; not stock clearance.|low angle crowded street
+scene|Filmot|https://filmot.com/|free|discovery|video,subtitle|quote,filters|Find words in YouTube captions and jump to the relevant moment; verify against audio.|industrial revolution
+scene|QuoDB|https://www.quodb.com/|free|discovery|text|quote|Identify a film or episode from remembered dialogue; not a clip download library.|I have a bad feeling
+scene|Subslikescript|https://subslikescript.com/|free|discovery|text|title,quote|Film and series transcript lookup for locating dialogue; check transcript accuracy.|The Office
+scene|IMDb|https://www.imdb.com/|freemium|discovery|text,video|title,keywords|Identify films, casts, release years and official promotional material.|courtroom drama
+scene|YouTube|https://www.youtube.com/|freemium|discovery|video,subtitle|keywords,title,filters|Official studios, educational channels and original uploads; search CC filter cautiously and verify uploader rights.|silent film public domain
+scene|Movieclips|https://www.youtube.com/@MOVIECLIPS|free|discovery|video|title,keywords|Official promotional movie scene channel; streaming does not grant editing rights.|dramatic realization
+scene|WatchPhrase|https://watchphrase.com/|freemium|discovery|subtitle,text|quote,title|Subtitle phrase search in films and series; check current viewing and access features.|keep your cool
+scene|FindThatScene|https://findthatscene.com/|unknown|discovery|video,gif|quote|Previously suggested scene finder; confirm availability and export options before relying on it.|never give up
+scene|Clip Engine|https://clipengine.club/|unknown|discovery|video|semantic|Previously suggested scene-description search; candidate only until verified.|someone drops a glass
+reaction|GIPHY|https://giphy.com/|free|discovery|gif,video|emotion,keywords|Animated reactions and short clips from popular culture; sharing features are not a commercial reuse grant.|awkward silence
+reaction|Tenor|https://tenor.com/|free|discovery|gif|emotion,keywords|Search animated reactions and stickers; confirm current service availability.|mind blown
+reaction|Frinkiac|https://frinkiac.com/|free|discovery|image,gif|quote|The Simpsons frame and GIF finder indexed by dialogue.|everything is fine
+reaction|Morbotron|https://morbotron.com/|free|discovery|image,gif|quote|Futurama frame and GIF finder indexed by dialogue.|shut up and take my money
+reaction|Master of All Science|https://masterofallscience.com/|free|discovery|image,gif|quote|Rick and Morty frame and GIF search; reference only.|science
+reaction|Know Your Meme|https://knowyourmeme.com/|free|discovery|image,gif,text,video|keywords|Trace origins, meaning and context of internet memes before using a reference.|this is fine meme
+english|YouGlish|https://youglish.com/|freemium|discovery|video,subtitle|quote,accent|Hear English phrases in real speech and compare accents; use for shadowing.|thought experiment
+english|Voscreen|https://www.voscreen.com/|freemium|discovery|video,subtitle|level|Short listening clips with translation-choice exercises; Turkish learners may benefit.|A2 listening
+english|Cake|https://cake.day/|freemium|discovery|video,subtitle|level,topic|Short conversational video lessons and speaking practice.|ordering food
+english|eJOY English|https://ejoy-english.com/|freemium|discovery|video,subtitle|level,topic|Interactive subtitles and vocabulary practice using videos.|business English
+english|FluentU|https://www.fluentu.com/|paid|discovery|video,subtitle|level,topic|Authentic videos with interactive captions and learning exercises.|travel English
+english|Lingopie|https://lingopie.com/|paid|discovery|video,subtitle|level,title|Learn through shows using interactive subtitles and vocabulary aids.|British drama
+english|Language Reactor|https://www.languagereactor.com/|freemium|discovery|video,subtitle|title,level|Subtitle learning companion for supported video platforms; install only from official store.|Netflix dual subtitles
+english|EnglishCentral|https://www.englishcentral.com/|freemium|discovery|video,subtitle|level,topic|Video lessons with speaking and pronunciation exercises.|job interview
+english|Yabla|https://english.yabla.com/|paid|discovery|video,subtitle|level,topic|Video immersion with listening exercises and interactive captions.|daily conversation
+english|MicroEnglish|https://microenglish.com/|free|discovery|video,text|topic|Short listening and vocabulary lessons focused on natural expressions.|phrasal verbs
+english|ESL Video|https://www.eslvideo.com/|freemium|discovery|video,text|level,topic|Video-based listening quizzes and classroom activities.|B1 listening
+english|EnglishClub|https://www.englishclub.com/esl-videos/|free|discovery|video,text|topic|English-learning videos and accompanying lesson material.|short film comprehension
+english|British Council LearnEnglish|https://learnenglish.britishcouncil.org/|free|discovery|video,audio,text|level,topic|Structured listening, grammar and video practice by CEFR level.|B1 storytelling
+english|BBC Learning English|https://www.bbc.co.uk/learningenglish/|free|discovery|video,audio,text|topic,level|British English lessons, vocabulary, news and everyday expressions.|6 Minute English
+english|VOA Learning English|https://learningenglish.voanews.com/|free|item|video,audio,text|topic,level|American English news and learning material; check third-party footage and music.|slow English science
+english|ELLLO|https://elllo.org/|free|discovery|video,audio,subtitle|level,accent|International speakers, listening lessons and transcripts.|daily routines
+english|Easy English|https://www.easyenglish.video/|freemium|discovery|video,subtitle|topic,level|Street interviews and natural conversational English.|British street interviews
+english|Learn English with TV Series|https://www.youtube.com/@LearnEnglishWithTVSeries|free|discovery|video,subtitle|topic,title|Annotated entertainment clips for idioms and natural pronunciation; not reuse clearance.|Friends idioms
+english|Rachel's English|https://rachelsenglish.com/|freemium|discovery|video,text|topic|American pronunciation, connected speech and mouth articulation.|flap T
+english|TED Talks|https://www.ted.com/talks|free|restricted|video,subtitle|topic,filters|Talks with transcripts and translations; TED's reuse terms restrict editing and commercial use.|decision making|https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy
+english|WinkLingo|https://winklingo.com/|unknown|discovery|video,subtitle|topic|Previously suggested film-based language learning service; verify current features.|shadowing
+english|XO English|https://www.xoenglish.com/|unknown|discovery|text,subtitle|quote|Previously suggested expression-context search; verify current availability.|piece of cake
+stock-free|Pexels|https://www.pexels.com/videos/|free|conditional|video,image|keywords,filters|Real-life people, everyday actions, nature, workplace and cinematic B-roll; custom stock license.|nervous interview|https://www.pexels.com/license/
+stock-free|Pixabay|https://pixabay.com/|free|conditional|video,image,audio,vector|keywords,filters|Video, motion graphics, photos, vectors, music and sound effects; custom content license.|abstract neural network|https://pixabay.com/service/license-summary/
+stock-free|Mixkit|https://mixkit.co/free-stock-video/|free|item|video,audio,template|keywords,filters|Cinematic footage and editing assets; choose Free rather than Restricted video license for commercial projects.|city timelapse|https://mixkit.co/license/
+stock-free|Coverr|https://coverr.co/|freemium|item|video,audio|keywords|Modern lifestyle and cinematic stock; check current free and paid conditions.|working remotely
+stock-free|Videvo|https://www.videvo.net/|freemium|item|video,audio|keywords,filters|Stock footage and motion graphics with differing license types; confirm service and item.|particle background
+stock-free|Vecteezy|https://www.vecteezy.com/free-videos|freemium|item|video,image,vector|keywords,filters|Stock footage, vector illustration and animation; free items may require attribution.|animated infographic
+stock-free|Videezy|https://www.videezy.com/|freemium|item|video|keywords,filters|Stock motion backgrounds, effects and footage; check item license.|green screen particles
+stock-free|Freepik|https://www.freepik.com/|freemium|item|video,image,vector,template|keywords,filters|Illustrations, templates, stock media and AI assets; distinguish generated content and free-license conditions.|education explainer
+stock-free|MotionElements|https://www.motionelements.com/|freemium|item|video,audio,template|keywords,filters|Motion graphics, sound and editing templates, including free offerings.|animated timeline
+stock-free|Dareful|https://dareful.com/|free|item|video|keywords|4K landscape and nature footage; inspect attribution/license on the specific clip.|mountain aerial
+stock-free|Free Nature Stock|https://freenaturestock.com/|free|item|image,video|keywords|Nature, landscape and atmosphere visuals; check video-specific terms.|forest rain
+stock-free|Mazwai|https://mazwai.com/|free|item|video|keywords|Curated cinematic footage with item-dependent licenses.|foggy morning
+stock-free|Life of Vids|https://www.lifeofvids.com/|free|item|video|keywords|Creative stock video; check service availability and redistribution limits.|street life
+stock-free|Unsplash|https://unsplash.com/|freemium|item|image|keywords,filters|Editorial-style and lifestyle photographs; free and premium content differ.|isolated person
+stock-free|Burst|https://www.shopify.com/stock-photos|free|item|image|keywords|Business and product photographs for illustrative storytelling.|small business
+stock-paid|Envato Elements|https://elements.envato.com/|paid|paid_license|video,audio,template,image|keywords,filters|Broad production assets, templates, effects and audio; register use under applicable license.|documentary titles
+stock-paid|Storyblocks|https://www.storyblocks.com/|paid|paid_license|video,audio,image|keywords,filters|Large stock library; check plan and coverage after subscription ends.|industrial factory
+stock-paid|Artgrid|https://artgrid.io/|paid|paid_license|video|keywords,filters|Cinematic stock organized into stories; verify current Artlist access and plan.|emotional family scene
+stock-paid|Artlist|https://artlist.io/|paid|paid_license|video,audio,template|keywords,filters|Footage, music and sound effects under subscription coverage.|documentary underscore
+stock-paid|Motion Array|https://motionarray.com/|paid|paid_license|video,audio,template|keywords,filters|Premiere, Resolve and After Effects templates and stock media.|animated map opener
+stock-paid|Filmsupply|https://www.filmsupply.com/|paid|paid_license|video|semantic,filters|High-end narrative footage and cinematic visual metaphors.|identity crisis
+stock-paid|Adobe Stock|https://stock.adobe.com/|freemium|paid_license|video,image,vector,template,audio|keywords,filters|Commercial and editorial media, illustrations and templates; license depends on asset.|DNA 3D animation
+stock-paid|Shutterstock|https://www.shutterstock.com/video|paid|paid_license|video,image,audio|keywords,filters|Large stock footage collection; commercial/editorial distinction matters.|historical reenactment
+stock-paid|Pond5|https://www.pond5.com/|paid|paid_license|video,audio,image|keywords,filters|Stock and archival footage marketplace, including historical recordings.|1920s street footage
+stock-paid|Getty Images|https://www.gettyimages.com/|paid|paid_license|image,video|keywords,filters|Professional editorial/news footage and stock; obtain correct rights.|historic election footage
+stock-paid|Adobe Firefly|https://firefly.adobe.com/|freemium|conditional|image,video|prompt|Generate bespoke illustrative assets rather than reusing copyrighted scenes; inspect plan and output terms.|metaphor of time passing
+history|Find Any Footage|https://findanyfootage.com/search|freemium|item|video|semantic,keywords|Search public-domain-labelled archival scenes by depicted action; confirm original archive and jurisdiction.|people waiting at train station|https://findanyfootage.com/pricing
+history|Internet Archive Moving Images|https://archive.org/details/movies|free|item|video,image,audio|keywords,filters|Historic films, documentaries, animation and user uploads; public access is not blanket reuse permission.|silent era factory
+history|Prelinger Archives|https://archive.org/details/prelinger|free|item|video|keywords,filters|Industrial, educational, advertising and amateur films, especially US social history.|1950s workplace
+history|Public Domain Review|https://publicdomainreview.org/collections/film/|free|item|video,image,text|keywords,topic|Curated unusual historic films and art; inspect original source and rights.|early animation
+history|US National Archives|https://catalog.archives.gov/|free|item|video,image,text,audio|keywords,filters|US government historical records, military and civilian footage; some third-party material restricted.|1940s home front
+history|Library of Congress National Screening Room|https://www.loc.gov/collections/national-screening-room/|free|item|video|keywords,filters|Historic motion pictures; consult rights and access statement on each item.|early cinema street
+history|Library of Congress Digital Collections|https://www.loc.gov/collections/|free|item|image,text,map,audio,video|keywords,filters|Primary sources, maps, photographs, posters, oral histories and films.|industrial revolution photographs
+history|Europeana|https://www.europeana.eu/|free|item|image,video,audio,text,map|keywords,filters|European cultural heritage across museums and archives; filter by reuse rights and verify provider.|medieval manuscript|https://pro.europeana.eu/page/available-rights-statements
+history|British Pathé|https://www.britishpathe.com/|freemium|paid_license|video|keywords,filters|Historic newsreels and documentary footage; paid licensing for reuse.|London 1930s
+history|AP Archive|https://www.aparchive.com/|freemium|paid_license|video|keywords,filters|International historical and contemporary news footage; license separately.|historic diplomatic meeting
+history|Reuters Connect|https://www.reutersconnect.com/|paid|paid_license|video,image,text|keywords,filters|Editorial news and visual archive; rights depend on product and use.|economic summit
+history|Imperial War Museums|https://www.iwm.org.uk/collections|free|item|video,image,text,audio|keywords,filters|Conflict history, military records, oral histories and photographs; check permissions.|wartime civilian life
+history|BFI National Archive|https://www.bfi.org.uk/bfi-national-archive|free|item|video|keywords,title|British film and television heritage; some viewing geo-restricted and reuse licensed.|British silent film
+history|EUscreen|https://euscreen.eu/|free|item|video|keywords,filters|European television heritage and broadcast collections; rights vary.|European public broadcasting 1960s
+history|Bundesarchiv|https://www.bundesarchiv.de/|free|item|image,video,text|keywords,filters|German federal historical records, images and films; inspect reproduction terms.|Berlin 1920er Jahre
+history|Deutsche Digitale Bibliothek|https://www.deutsche-digitale-bibliothek.de/|free|item|image,video,text,audio|keywords,filters|German cultural collections and digital objects; inspect rights statements.|Industrialisierung
+history|Deutsches Filminstitut & Filmmuseum|https://www.dff.film/|free|item|video,image,text|keywords,title|German film heritage and exhibitions; discovery and institutional licensing.|Weimarer Kino
+history|Gallica BnF|https://gallica.bnf.fr/|free|item|image,text,map,audio|keywords,filters|French national library digitized books, prints, maps and recordings; check commercial rules.|Révolution industrielle
+history|Digital Public Library of America|https://dp.la/|free|item|image,text,audio,video|keywords,filters|US libraries, museums and archive aggregation; follow source institution.|immigration oral history
+history|Trove|https://trove.nla.gov.au/|free|item|image,text,audio,video|keywords,filters|Australian newspapers, archives, images and recordings.|Australian railway history
+history|World Digital Library collection|https://www.loc.gov/collections/world-digital-library/|free|item|image,text,map|keywords,filters|Global cultural heritage manuscripts, maps and books.|Ottoman manuscript
+history-tr|Film Mirasım|https://filmmirasim.ktb.gov.tr/|free|item|video|keywords,title|Turkish Ministry of Culture historical films and restoration archive; request permission if unclear.|Cumhuriyet dönemi
+history-tr|TRT Arşiv|https://www.trtarsiv.com/|free|discovery|video|keywords,title|Turkish television, culture, interviews and broadcast history; seek permission for clips.|eski İstanbul
+history-tr|SALT Research|https://archives.saltresearch.org/|free|item|image,text,map|keywords,filters|Ottoman and Republican social, architecture and urban history records.|İstanbul mimari
+history-tr|Atatürk Kitaplığı|https://ataturkkitapligi.ibb.gov.tr/|free|item|text,image,map|keywords|Istanbul municipal historic newspapers, maps, manuscripts and books; check access.|Osmanlı haritaları
+history-tr|Devlet Arşivleri|https://www.devletarsivleri.gov.tr/|free|item|text,image|keywords,filters|Ottoman and Republican primary documents; registration and reproduction conditions may apply.|Cumhuriyet arşivi
+history-tr|İSAM Kütüphanesi|https://www.isam.org.tr/|free|item|text,image|keywords|Research material for Ottoman and Islamic history, bibliography and manuscripts.|Osmanlı vakıfları
+history-tr|Türk Tarih Kurumu|https://ttk.gov.tr/|mixed|discovery|text|keywords|Historical publications and institutional resources; corroborate historical interpretations.|Selçuklu tarihi
+science|NASA Scientific Visualization Studio|https://svs.gsfc.nasa.gov/|free|item|video,image,data|keywords,filters|Scientific animations of space, climate and Earth systems; visual and audio rights can differ.|Earth magnetic field|https://svs.gsfc.nasa.gov/help/
+science|NASA Image and Video Library|https://images.nasa.gov/|free|item|video,image,audio|keywords,filters|NASA missions, spacecraft, astronauts and scientific media; check third-party and endorsement rules.|Apollo spacecraft|https://www.nasa.gov/nasa-brand-center/images-and-media/
+science|ESA Multimedia|https://www.esa.int/ESA_Multimedia|free|item|video,image|keywords,filters|European space missions and visualizations; ESA and partner rights differ.|Mars Express
+science|ESO Multimedia|https://www.eso.org/public/|free|item|video,image|keywords,filters|Astronomy imagery, observatories and simulations; inspect credit and licensing.|black hole visualization
+science|NOAA Ocean Exploration|https://oceanexplorer.noaa.gov/|free|item|video,image|keywords,topic|Deep ocean, marine biology and exploration footage; check credit and exceptions.|deep sea coral
+science|NOAA Photo Library|https://photolib.noaa.gov/|free|item|image|keywords|Weather, marine science, fisheries and climate imagery.|hurricane satellite
+science|USGS Multimedia|https://www.usgs.gov/products/multimedia-gallery|free|item|image,video,data|keywords|Geology, earthquakes, volcanoes and environmental science media.|volcanic eruption
+science|Wikimedia Animated Diagrams|https://commons.wikimedia.org/wiki/Category:Animated_diagrams|free|item|gif,video,vector,image|keywords,category|Mechanical, mathematical, biological and physical process diagrams; inspect file license.|four stroke engine
+science|HHMI BioInteractive|https://www.biointeractive.org/|free|restricted|video,image,text,simulation|topic,filters|High-quality biology animations, ecology, evolution and genetics education; verify reuse terms.|DNA replication
+science|PhET|https://phet.colorado.edu/tr/|free|restricted|simulation|topic,level|Interactive physics, chemistry and math simulations; regular HTML sims are CC BY-NC under current policy.|electric circuits|https://phet.colorado.edu/en/licensing/
+science|TED-Ed|https://ed.ted.com/|free|restricted|video,text|topic|Animated explainers and lessons; do not assume permission to clip or dub.|how memory works
+science|OpenStax|https://openstax.org/|free|item|text,image|topic,level|Open textbooks and teaching diagrams; check edition and figure-specific rights.|cell membrane
+science|Khan Academy|https://www.khanacademy.org/|free|restricted|video,text,simulation|topic,level|Structured educational explanations; inspect license and third-party content before reuse.|supply and demand
+science|MIT OpenCourseWare|https://ocw.mit.edu/|free|restricted|video,text,image|topic,level|University lectures and course materials; predominantly noncommercial open licensing, exceptions apply.|mechanical engineering
+science|OER Commons|https://oercommons.org/|free|item|text,video,simulation,image|topic,filters|Open educational resource search; select suitable license and teaching level.|renewable energy
+science|MERLOT|https://www.merlot.org/|free|item|text,video,simulation|topic,filters|Curated educational materials across disciplines; linked content licenses vary.|statistics simulation
+science|GeoGebra|https://www.geogebra.org/|freemium|item|simulation,graph|topic,keywords|Interactive math visualizations and geometry tools; verify material and commercial terms.|quadratic function
+science|Desmos|https://www.desmos.com/|free|item|simulation,graph|topic|Create interactive mathematical graph demonstrations; review output and platform terms.|sine wave
+science|Manim Community|https://www.manim.community/|free|tool|animation,code|topic,create|Open-source mathematical animation engine; create original animations, not reuse existing videos.|Fourier transform animation
+science|Exploratorium|https://www.exploratorium.edu/|free|discovery|video,text,simulation|topic|Accessible science demonstrations and explanations; seek media reuse permission.|optical illusions
+science|Wolfram Demonstrations|https://demonstrations.wolfram.com/|free|item|simulation,graph|topic|Interactive mathematical and scientific models; check terms for public outputs.|pendulum motion
+medical|Servier Medical Art|https://smart.servier.com/|free|conditional|vector,image|keywords,category|Medical illustrations for anatomy, physiology and disease; credit CC BY artwork.|human brain|https://smart.servier.com/terms-of-use/
+medical|CDC Public Health Image Library|https://phil.cdc.gov/|free|item|image,video|keywords,filters|Public health and microscopy images; check public-domain vs copyrighted items.|virus microscopy
+medical|CDC B-roll|https://www.cdc.gov/media/b-roll/index.html|free|item|video|topic|Public health field and laboratory footage; inspect item permissions.|laboratory technician
+medical|NIGMS Image and Video Gallery|https://nigms.nih.gov/education/Pages/Image-and-Video-Gallery.aspx|free|item|image,video|topic|Biomedical research images and videos; credits and rights per asset.|cell division
+medical|MedPix|https://medpix.nlm.nih.gov/|free|item|image,text|keywords|Clinical teaching cases and diagnostic imaging; inspect consent, privacy and terms.|MRI brain
+medical|Wellcome Collection|https://wellcomecollection.org/|free|item|image,text,audio|keywords,filters|History of medicine, scientific illustration and human experience; filter by license.|historic anatomy
+medical|Open Anatomy Project|https://www.openanatomy.org/|free|item|3d,image,data|topic|Open anatomical atlas and modeling resources; check dataset licensing.|human anatomy atlas
+medical|BioDigital Human|https://www.biodigital.com/|freemium|restricted|3d,simulation|topic|Interactive anatomy and disease models; commercial publication requires appropriate plan.|heart anatomy
+medical|AnatomyTOOL|https://anatomytool.org/|free|item|image,video,3d|keywords,filters|Anatomical teaching resources, including openly licensed material.|skeletal muscle
+animation|Blender Studio Films|https://studio.blender.org/films/|freemium|item|video,3d|title,topic|Open animation films and production material; check individual film license, attribution and music.|Big Buck Bunny|https://studio.blender.org/projects/spring/pages/about/
+animation|Storyset|https://storyset.com/|freemium|conditional|vector,image,animation|keywords,create|Customizable illustrations and animation for explainer scenes; free-use credit and other conditions apply.|overthinking|https://storyset.com/terms
+animation|LottieFiles|https://lottiefiles.com/|freemium|item|animation,vector|keywords,filters|Animated icons and illustrations, often Lottie JSON; verify asset license and export options.|loading animation
+animation|unDraw|https://undraw.co/illustrations|free|conditional|vector,image|keywords|Editable SVG illustrations for abstract concepts and explanation; read redistribution restrictions.|teamwork
+animation|Open Doodles|https://www.opendoodles.com/|free|item|vector,image|category|Hand-drawn human illustrations for simple conceptual storytelling.|thinking
+animation|OpenMoji|https://openmoji.org/|free|conditional|vector,image|keywords|Open emoji artwork with attribution and share-alike conditions.|surprise face
+animation|Kenney|https://kenney.nl/assets|free|item|vector,image,3d,audio|keywords,filters|Game assets, icons and props useful for diagrams and animation; confirm CC0 on package.|city tiles
+animation|SVG Repo|https://www.svgrepo.com/|free|item|vector|keywords,filters|SVG icons and illustrations; per-collection licenses vary.|brain icon
+animation|Font Awesome|https://fontawesome.com/|freemium|item|vector,font|keywords|Icons for explaining interfaces, science and concepts; free and pro terms differ.|hourglass icon
+animation|Google Fonts|https://fonts.google.com/|free|item|font|keywords,filters|Open fonts for titles and subtitles; inspect specific font license.|readable subtitle font
+animation|Material Symbols|https://fonts.google.com/icons|free|conditional|vector,font|keywords|Interface icons for diagrams and on-screen labels.|warning icon
+animation|The Noun Project|https://thenounproject.com/|freemium|item|vector,image|keywords|Huge conceptual icon library; free and paid licenses vary.|decision icon
+animation|Canva|https://www.canva.com/|freemium|tool|animation,video,template,image|keywords,create|Create motion graphics, infographics and explainers; check library asset and export license.|animated timeline
+animation|Animaker|https://www.animaker.com/|freemium|tool|animation,video|create,templates|Character and explainer animation maker; check commercial plan and watermark.|classroom explainer
+animation|Vyond|https://www.vyond.com/|paid|tool|animation,video|create,templates|Professional character animation for education and business; verify plan rights.|office conflict
+animation|VideoScribe|https://www.videoscribe.co/|paid|tool|animation,video|create,templates|Whiteboard and hand-drawn explanatory videos.|how taxes work
+animation|Blender|https://www.blender.org/|free|tool|3d,animation,video|create|Open-source 3D modeling and animation; create original visuals using cleared inputs.|cutaway engine
+animation|OpenToonz|https://opentoonz.github.io/e/|free|tool|animation,video|create|Open-source 2D animation production.|hand drawn cartoon
+animation|Synfig|https://www.synfig.org/|free|tool|animation,vector|create|Open-source vector-based 2D animation.|moving diagram
+animation|Pencil2D|https://www.pencil2d.org/|free|tool|animation|create|Lightweight hand-drawn frame animation.|stick figure reaction
+animation|Krita|https://krita.org/|free|tool|image,animation|create|Digital illustration and frame-by-frame animation.|animated concept sketch
+animation|Rive|https://rive.app/|freemium|tool|animation,vector|create|Interactive vector animation; inspect output and asset terms.|animated state diagram
+animation|Jitter|https://jitter.video/|freemium|tool|animation,video|create,templates|Motion design for text, interfaces and graphics.|animated lower third
+animation|DaVinci Resolve|https://www.blackmagicdesign.com/products/davinciresolve|freemium|tool|video,animation,audio|create|Editing, compositing, colour and sound production for your own licensed footage.|documentary editing
+animation|Kdenlive|https://kdenlive.org/|free|tool|video,audio|create|Open-source video editor; work with legally obtained footage.|educational video editing
+maps|Google Earth Studio|https://earth.google.com/studio/|free|tool|video,map|create,location|Generate geographic flyovers and zooms; preserve required attribution and verify editorial/commercial rules.|Istanbul flyover|https://www.google.com/permissions/geoguidelines/
+maps|David Rumsey Map Collection|https://www.davidrumsey.com/|free|item|map,image|keywords,filters|Historical maps and atlases; check reuse terms for each map.|Ottoman Empire map
+maps|Natural Earth|https://www.naturalearthdata.com/|free|conditional|map,data|topic,download|Public-domain vector and raster geographic data for custom maps.|world boundaries|https://www.naturalearthdata.com/about/terms-of-use/
+maps|OpenHistoricalMap|https://www.openhistoricalmap.org/|free|item|map,data|location,time|Historical geographic data and temporal maps; CC0 by default with exceptions.|Roman road network|https://wiki.openstreetmap.org/wiki/OpenHistoricalMap/License
+maps|Wikimedia Animated Maps|https://commons.wikimedia.org/wiki/Category:Animated_maps|free|item|map,gif,video|category,keywords|Animated historical borders, migrations and geographic processes; verify dates and file license.|empire expansion
+maps|OpenStreetMap|https://www.openstreetmap.org/|free|conditional|map,data|location|Community geographic data; ODbL obligations and map tile attribution apply.|city streets|https://www.openstreetmap.org/copyright
+maps|QGIS|https://qgis.org/|free|tool|map,data,image|create|Open-source GIS for designing maps and temporal visualizations; underlying data rights remain.|population density map
+maps|MapChart|https://www.mapchart.net/|freemium|tool|map,image|create|Quick custom geographic maps; confirm licensing and border accuracy.|European countries
+maps|Old Maps Online|https://www.oldmapsonline.org/|free|item|map,image|location,time|Search historical maps by area and period; follow institution rights.|Kiel 1900
+maps|Geacron|https://geacron.com/|freemium|discovery|map|time,location|Historical atlas for orienting research; cross-check borders and dates, not automatic video rights.|Europe 1500
+maps|Copernicus Browser|https://browser.dataspace.copernicus.eu/|free|item|image,map,data|location,time|Satellite imagery for environmental change and land use; check dataset attribution.|urban expansion
+maps|USGS EarthExplorer|https://earthexplorer.usgs.gov/|free|item|image,map,data|location,time|Remote sensing and historical satellite imagery; dataset terms differ.|Landsat glacier retreat
+maps|NASA Worldview|https://worldview.earthdata.nasa.gov/|free|item|image,map,data|location,time|Satellite imagery and environmental time series; inspect layer credits.|wildfire smoke
+maps|Historical GIS Cliopatria|https://github.com/Seshat-Global-History-Databank/cliopatria|free|item|map,data|time,download|Historical polity boundary data; verify license, sources and uncertainty before use.|ancient states
+data|Our World in Data|https://ourworldindata.org/|free|item|graph,map,data,text|topic,filters|Research-backed charts on global health, economy, population, education and climate; check third-party data rights.|life expectancy over time|https://ourworldindata.org/faqs
+data|Gapminder|https://www.gapminder.org/tools/|free|item|graph,data,simulation|topic,time|Animated bubble charts on development and global living standards; verify source data and terms.|income versus life expectancy
+data|Flourish|https://flourish.studio/|freemium|tool|graph,map,animation|create,templates|Build animated rankings, interactive charts, maps and timelines; plan determines export options.|population bar chart race
+data|Datawrapper|https://www.datawrapper.de/|freemium|tool|graph,map|create|Create accessible charts and maps from your own datasets; verify data attribution.|inflation by country
+data|World Bank Open Data|https://data.worldbank.org/|free|item|data,graph|topic,filters|Economic and development indicators by country and year; check dataset notes.|GDP per capita
+data|OECD Data Explorer|https://data-explorer.oecd.org/|free|item|data,graph|topic,filters|International economic, education, labour and social indicators; check terms.|education spending
+data|Eurostat|https://ec.europa.eu/eurostat/|free|item|data,graph,map|topic,filters|Official European statistics; examine methodology and regional differences.|EU unemployment
+data|UN Data|https://data.un.org/|free|item|data|topic,filters|International demographic and economic statistics; check source agency.|world population
+data|UN Population Division|https://population.un.org/wpp/|free|item|data,graph|topic,time|Population estimates and projections with uncertainty and methodology.|population ageing
+data|FRED|https://fred.stlouisfed.org/|free|item|data,graph|topic,filters|Economic time series, inflation, interest rates and labour; verify series-specific rights.|consumer price index
+data|Destatis|https://www.destatis.de/|free|item|data,graph,text|topic,filters|Official German statistics; tables, reports and charts.|Deutschland Bevölkerung
+data|TÜİK|https://www.tuik.gov.tr/|free|item|data,graph,text|topic,filters|Official Turkish statistics; inspect definitions and release dates.|Türkiye nüfus
+data|IMF Data|https://www.imf.org/en/Data|free|item|data,graph|topic,filters|Macroeconomic statistics, forecasts and financial indicators; distinguish projections from observations.|inflation forecast
+data|UNESCO UIS|https://uis.unesco.org/|free|item|data,graph|topic|International education, literacy, science and cultural statistics.|literacy rate
+data|WHO Data|https://data.who.int/|free|item|data,graph|topic,filters|Global public health indicators; verify methodology and reuse terms.|life expectancy
+data|FAOSTAT|https://www.fao.org/faostat/|free|item|data,graph|topic,filters|Agriculture, food production and land-use data.|global wheat production
+data|IPCC|https://www.ipcc.ch/|free|item|text,graph,data|topic|Climate assessment reports and figures; cite report, figure and underlying sources.|warming scenarios
+data|Wikidata|https://www.wikidata.org/|free|conditional|data,text|keywords,query|Structured entity facts and identifiers; use source references and corroborate claims.|birthplaces of composers
+data|Google Dataset Search|https://datasetsearch.research.google.com/|free|discovery|data|keywords|Find datasets across institutions; the original publisher sets rights and quality.|historical city population
+data|Data Commons|https://datacommons.org/|free|item|data,graph|topic,location|Explore harmonized public statistics; trace back to originating datasets.|housing cost
+museum|Wikimedia Commons|https://commons.wikimedia.org/|free|item|image,video,audio,vector,map,3d|keywords,category,filters|Cross-topic media with file-specific licensing; source of historical photos, scientific diagrams and footage.|steam engine animation|https://commons.wikimedia.org/wiki/Commons:REUSE
+museum|Openverse|https://openverse.org/|free|item|image,audio|keywords,filters|Search openly licensed images and audio, not a native video search; confirm rights at source.|ancient sculpture|https://openverse.org/about
+museum|Smithsonian Open Access|https://www.si.edu/openaccess|free|item|image,3d,data|keywords,filters|Museum artifacts, artworks, fossils and scientific objects; select CC0-marked assets.|early telephone|https://www.si.edu/openaccess/faq
+museum|Smithsonian 3D|https://3d.si.edu/|free|item|3d,image|keywords,filters|Digitized artifacts, fossils, instruments and spacecraft; choose CC0-labelled models.|Apollo command module|https://www.si.edu/openaccess/faq
+museum|The Met Open Access|https://www.metmuseum.org/hubs/open-access|free|item|image,data|keywords,filters|Art and ancient artifacts; choose Open Access images and consult object metadata.|Roman sculpture
+museum|Rijksmuseum|https://www.rijksmuseum.nl/en/collection|free|item|image,data|keywords,filters|Paintings, prints and historical artifacts; inspect item rights.|Dutch Golden Age
+museum|Art Institute of Chicago|https://www.artic.edu/collection|free|item|image,data|keywords,filters|Artwork images with CC0 downloads for eligible public-domain works.|impressionist painting
+museum|Cleveland Museum of Art|https://www.clevelandart.org/art/collection|free|item|image,data|keywords,filters|Museum artworks with open-access images where marked.|medieval armor
+museum|Getty Museum Collection|https://www.getty.edu/art/collection/|free|item|image,data|keywords,filters|Historic art and antiquities; check Open Content status, distinct from Getty Images stock.|ancient Greek pottery
+museum|Biodiversity Heritage Library|https://www.biodiversitylibrary.org/|free|item|image,text|keywords,filters|Historical natural history books and botanical/zoological illustrations.|bird illustrations
+museum|New York Public Library Digital Collections|https://digitalcollections.nypl.org/|free|item|image,text,map|keywords,filters|Photographs, maps, historical prints and manuscripts; choose public-domain records.|old New York street
+museum|Google Arts & Culture|https://artsandculture.google.com/|free|discovery|image,3d,text|keywords,topic|Explore global museums and historic objects; obtain original institution permissions.|ancient Egypt art
+3d|Sketchfab|https://sketchfab.com/|freemium|item|3d|keywords,filters|Downloadable models where enabled; filter by license and verify source legitimacy.|Roman temple
+3d|Poly Haven|https://polyhaven.com/|free|conditional|3d,image|keywords,category|CC0 models, HDRIs and textures for original 3D renders.|industrial warehouse|https://polyhaven.com/license
+3d|ambientCG|https://ambientcg.com/|free|conditional|3d,image|keywords,category|CC0 materials and textures for realistic educational 3D scenes.|brick wall texture
+3d|BlenderKit|https://www.blenderkit.com/|freemium|item|3d,image|keywords,filters|Blender models and materials; check per-asset license and plan.|laboratory equipment
+3d|NASA 3D Resources|https://science.nasa.gov/3d-resources/|free|item|3d,image|keywords,category|Spacecraft, planets and mission models; check attribution and third-party terms.|Mars rover
+3d|MorphoSource|https://www.morphosource.org/|free|item|3d,image,data|keywords,filters|Scientific 3D scans of biological specimens, fossils and anatomy; access and reuse conditions vary.|dinosaur skull
+3d|Open Heritage 3D|https://openheritage3d.org/|free|item|3d,data|keywords,location|3D scans of historic monuments and archaeological sites; inspect project licenses.|heritage temple
+nature|National Park Service Multimedia|https://www.nps.gov/subjects/photography/|free|item|video,image|topic,location|US park landscapes and wildlife imagery; inspect copyright notices and partner material.|Grand Canyon
+nature|Macaulay Library|https://www.macaulaylibrary.org/|free|restricted|video,image,audio|species,location|Research archive of birds and wildlife media; licensing/permission needed for publication.|bird calls
+nature|iNaturalist|https://www.inaturalist.org/|free|item|image,audio,data|species,location,filters|Species observations with separate media and observation licenses; filter for commercial reuse.|European hedgehog
+nature|GBIF|https://www.gbif.org/|free|item|data,map,image|species,location|Global biodiversity occurrences and specimen data; check dataset and media licensing.|butterfly distribution
+nature|US Fish and Wildlife Service|https://www.fws.gov/|free|item|image,video|species,topic|Wildlife imagery and conservation media; inspect attribution and rights.|wetland restoration
+nature|DVIDS|https://www.dvidshub.net/|free|item|video,image,audio|keywords,filters|US defence and emergency-response media; check copyright restrictions and avoid implying endorsement.|humanitarian rescue training
+sound|YouTube Audio Library|https://support.google.com/youtube/answer/3376882|free|item|audio|keywords,filters|Music and sound effects via YouTube Studio; check attribution and off-platform conditions.|documentary ambience|https://support.google.com/youtube/answer/3376882
+sound|Freesound|https://freesound.org/|free|item|audio|keywords,filters|Field recordings and sound effects; choose CC0 or CC BY where commercial use is intended.|crowd murmur|https://freesound.org/help/faq/
+sound|Pixabay Music and SFX|https://pixabay.com/music/|free|conditional|audio|keywords,filters|Music and effects under Pixabay content license; keep download evidence for claims.|calm piano|https://pixabay.com/service/license-summary/
+sound|Mixkit Sound Effects|https://mixkit.co/free-sound-effects/|free|item|audio|keywords,filters|Curated production effects; check audio-specific license.|whoosh transition|https://mixkit.co/license/
+sound|Zapsplat|https://www.zapsplat.com/|freemium|item|audio|keywords,filters|Sound effects and production music; free plan may require credit.|office ambience
+sound|BBC Sound Effects|https://sound-effects.bbcrewind.co.uk/|free|restricted|audio|keywords,filters|Historical and contemporary sound recordings; noncommercial conditions, paid licensing for other uses.|steam train
+sound|Free Music Archive|https://freemusicarchive.org/|freemium|item|audio|genre,filters|Independent music under various licenses; confirm sync and commercial rights.|ambient instrumental
+sound|ccMixter|https://ccmixter.org/|free|item|audio|keywords,filters|Music and remixes under Creative Commons terms; filter out NC for commercial work.|instrumental soundtrack
+sound|Musopen|https://musopen.org/|freemium|item|audio,text|composer,filters|Classical scores and recordings; composition rights and recording rights are separate.|Bach prelude
+sound|Incompetech|https://incompetech.com/music/|freemium|item|audio|genre,filters|Production music; check track attribution or paid license.|comic tension
+sound|Bensound|https://www.bensound.com/|freemium|item|audio|genre,filters|Production music and plan-specific license options.|documentary piano
+sound|Epidemic Sound|https://www.epidemicsound.com/|paid|paid_license|audio|genre,filters|Music and effects; ensure channel safelisting and subscription coverage.|mysterious background
+sound|Sonniss|https://sonniss.com/|paid|paid_license|audio|keywords,filters|Professional sound effects and occasional free bundles with separate licenses.|mechanical sound
+sound|LibriVox|https://librivox.org/|free|item|audio,text|title,author|Volunteer public-domain audiobook recordings; verify local rights for text and recording.|classic literature narration
+sound|Internet Archive Audio|https://archive.org/details/audio|free|item|audio|keywords,filters|Historical recordings, podcasts and speeches; check each recording's rights.|historic radio broadcast
+research|Google Scholar|https://scholar.google.com/|free|discovery|text|keywords,filters|Find scholarly articles and citation trails; full text rights differ.|memory consolidation review
+research|OpenAlex|https://openalex.org/|free|discovery|text,data|keywords,filters|Open scholarly metadata graph, works, authors, institutions and citations; link to originals.|industrial revolution productivity|https://help.openalex.org/data/how-its-built/
+research|Semantic Scholar|https://www.semanticscholar.org/|free|discovery|text,data|keywords,filters|Academic discovery and citation context; check the original study and versions.|cognitive bias meta analysis
+research|PubMed|https://pubmed.ncbi.nlm.nih.gov/|free|discovery|text|keywords,filters|Biomedical literature search; prioritize systematic reviews and check corrections.|sleep systematic review
+research|PubMed Central|https://pmc.ncbi.nlm.nih.gov/|free|item|text,image|keywords,filters|Full-text biomedical research; open access does not guarantee figure reuse rights.|neuronal plasticity
+research|Crossref|https://search.crossref.org/|free|discovery|text,data|keywords,doi|DOI and bibliographic metadata lookup; verify original published record.|article DOI
+research|CORE|https://core.ac.uk/|free|discovery|text|keywords,filters|Open access research discovery across repositories; inspect publication status.|economics working paper
+research|DOAJ|https://doaj.org/|free|discovery|text|keywords,filters|Directory of open access journals and articles; verify journal and article license.|education study
+research|arXiv|https://arxiv.org/|free|item|text,image|keywords,category|Preprints in physics, computing and mathematics; not necessarily peer reviewed.|machine learning review
+research|Zenodo|https://zenodo.org/|free|item|text,data,image,code|keywords,filters|Research datasets, papers and software with deposit-specific rights.|climate dataset
+research|Open Science Framework|https://osf.io/|free|item|text,data|keywords|Research projects, preregistrations and materials; check version and license.|psychology replication
+research|Cochrane Library|https://www.cochranelibrary.com/|mixed|discovery|text|keywords,filters|Systematic reviews in health; distinguish evidence quality and paywalled content.|treatment effectiveness review
+research|Europe PMC|https://europepmc.org/|free|item|text,data|keywords,filters|Life science papers and preprints, citations and open-access links.|genetics research
+research|BASE|https://www.base-search.net/|free|discovery|text|keywords,filters|Academic search across repositories and open access sources.|medieval history thesis
+research|Project Gutenberg|https://www.gutenberg.org/|free|item|text,audio|keywords,title|Classic books with US public-domain status; verify rights in your country.|Adam Smith Wealth of Nations
+research|Internet Archive Books|https://archive.org/details/texts|free|item|text,image|keywords,filters|Digitized books and documents; borrowing/access and reuse are distinct.|historical primary source
+research|Stanford Encyclopedia of Philosophy|https://plato.stanford.edu/|free|discovery|text|topic|Expert-written philosophy reference for definitions and debates; cite rather than copy.|free will
+research|Internet Encyclopedia of Philosophy|https://iep.utm.edu/|free|discovery|text|topic|Scholarly philosophy introductions and bibliography.|stoicism
+research|World History Encyclopedia|https://www.worldhistory.org/|free|item|text,image,video|topic|Accessible history articles and maps; inspect article and media licenses; corroborate with primary research.|Roman trade
+research|JSTOR|https://www.jstor.org/|mixed|discovery|text,image|keywords,filters|Humanities, social sciences and historical scholarship; access and image reuse vary.|Ottoman trade history
+research|OpenLearn|https://www.open.edu/openlearn/|free|item|text,video,audio|topic,level|Open University educational courses; check specific resource and third-party material.|introduction to psychology
+research|YÖK Ulusal Tez Merkezi|https://tez.yok.gov.tr/UlusalTezMerkezi/|free|discovery|text|keywords,filters|Turkish graduate thesis metadata and accessible theses; cite original thesis.|Osmanlı iktisat tarihi
+research|DergiPark|https://dergipark.org.tr/|free|item|text|keywords,filters|Turkish academic journals and papers; verify journal standards and article license.|eğitim psikolojisi
+verify|Google Fact Check Explorer|https://toolbox.google.com/factcheck/explorer|free|discovery|text|keywords|Search published fact checks; examine original evidence and date.|viral claim
+verify|Google Lens|https://lens.google/|free|discovery|image|reverse_image|Reverse image discovery to identify a scene or earlier publication.|unknown historical photo
+verify|TinEye|https://tineye.com/|freemium|discovery|image|reverse_image|Find earlier instances and versions of an image; not proof of authorship.|viral image provenance
+verify|InVID Verification Plugin|https://www.invid-project.eu/tools-and-services/invid-verification-plugin/|free|tool|video,image|reverse_image,keyframe|Video verification and keyframe tools; install only from official distribution.|verify video origin
+verify|Wayback Machine|https://web.archive.org/|free|discovery|text,image|url,time|Inspect archived pages and past versions; screenshots and snapshots do not grant reuse rights.|old source page
+verify|Bellingcat Toolkit|https://bellingcat.gitbook.io/toolkit|free|discovery|text|topic|Directory of open-source investigation and verification tools; verify claims independently.|geolocation research
+verify|Teyit|https://teyit.org/|free|discovery|text|keywords|Turkish fact-checking articles and methodologies; check the cited evidence.|viral haber
+verify|AFP Fact Check|https://factcheck.afp.com/|free|discovery|text|keywords|Investigations of public viral claims and misleading media.|misleading footage
+verify|Google Earth|https://earth.google.com/web/|free|discovery|map,image|location,time|Geographic corroboration and location research; do not expose private locations.|landmark verification
+verify|VirusTotal|https://www.virustotal.com/|freemium|tool|text|url,hash|Reputation and file scanning service; never upload confidential or unreleased material; not a safety guarantee.|check download domain
+verify|Creative Commons License Chooser|https://creativecommons.org/chooser/|free|tool|text|create|Understand and choose a license for your own work; cannot grant rights to someone else's media.|CC BY
+verify|RightsStatements.org|https://rightsstatements.org/|free|discovery|text|topic|Interpret standardized cultural heritage rights statements; distinguish access from permission.|In Copyright
+news|Associated Press|https://apnews.com/|free|discovery|text,video,image|keywords,time|Current reporting and original journalism; cite reports, license footage separately.|election results
+news|Reuters|https://www.reuters.com/|mixed|discovery|text,video,image|keywords,time|International news and business reporting; editorial footage requires licensing.|central bank policy
+news|BBC News|https://www.bbc.com/news|free|discovery|text,video,image|keywords,time|News explainers and international reporting; separate viewing from publication rights.|technology policy
+news|The Conversation|https://theconversation.com/|free|item|text,image|keywords,topic|Academic-authored journalism; check article-specific republishing terms and separate image licenses.|behavioural economics
+news|UN Web TV|https://webtv.un.org/|free|item|video|keywords,time|Official UN meetings, speeches and press briefings; check audiovisual usage terms.|General Assembly speech
+news|European Parliament Multimedia Centre|https://multimedia.europarl.europa.eu/|free|item|video,image,audio|keywords,time|European parliamentary debates, press footage and interviews; consult reuse conditions.|European Parliament debate
+news|Bundestag Mediathek|https://www.bundestag.de/mediathek|free|item|video,audio|keywords,time|German parliamentary debates and press events; check terms before editing.|Bundestag Rede
+news|C-SPAN|https://www.c-span.org/|free|item|video|keywords,time|US public affairs footage and speeches; some government proceedings and network coverage have different rights.|congressional hearing
+law|EUR-Lex|https://eur-lex.europa.eu/|free|item|text|keywords,filters|Official EU law, directives and decisions; cite consolidated version and effective date.|copyright directive
+law|Gesetze im Internet|https://www.gesetze-im-internet.de/|free|item|text|keywords|German federal laws and regulations; cite exact provision and version.|Urheberrechtsgesetz
+law|Mevzuat Bilgi Sistemi|https://www.mevzuat.gov.tr/|free|item|text|keywords|Official Turkish legislation, regulations and amendments; check latest effective version.|Fikir ve Sanat Eserleri Kanunu
+law|WIPO Lex|https://www.wipo.int/wipolex/|free|item|text|keywords,filters|Global intellectual property laws, treaties and decisions; verify national implementation.|copyright exceptions
+tech|Google Patents|https://patents.google.com/|free|item|text,image|keywords,filters|Patent drawings and technical descriptions; patents and copyright are separate, check reproduction rights.|early telephone patent
+tech|Espacenet|https://worldwide.espacenet.com/|free|item|text,image|keywords,filters|Patent documents, diagrams and invention history from the European Patent Office.|steam engine patent
+tech|MDN Web Docs|https://developer.mozilla.org/|free|item|text,code,image|keywords,topic|Web development reference and code examples; check documentation and code licensing separately.|HTTP request lifecycle
+tech|GitHub|https://github.com/|free|item|code,text,image|keywords,filters|Find open-source projects and technical documentation; no license means no general reuse permission.|open source simulation
+tech|iFixit|https://www.ifixit.com/|free|restricted|image,text,video|keywords,topic|Device teardown and repair guides for understanding internal components; check media license before publishing.|laptop teardown
+tech|Computer History Museum|https://www.computerhistory.org/|free|item|image,video,text|keywords,topic|Computing history, artifacts, oral histories and exhibitions; verify media rights.|early computer
+learning|Coursera|https://www.coursera.org/|freemium|discovery|video,text|topic,level|Courses from universities and institutions; learning access is not clip reuse permission.|economics introduction
+learning|edX|https://www.edx.org/|freemium|discovery|video,text|topic,level|University courses and learning paths, with plan-specific access.|world history
+learning|Open Yale Courses|https://oyc.yale.edu/|free|restricted|video,text|topic|Recorded university lectures and transcripts; verify course-level terms for reuse.|philosophy lectures
+learning|Crash Course|https://thecrashcourse.com/|free|discovery|video|topic|Structured educational video series across disciplines; use for learning and research, not unlicensed clips.|world history
+learning|Wikibooks|https://www.wikibooks.org/|free|item|text,image|topic|Collaborative open textbooks; inspect license and corroborate facts.|introductory economics
+learning|LibreTexts|https://libretexts.org/|free|item|text,image,simulation|topic,level|Open learning materials in science and humanities; licenses vary by page and figure.|organic chemistry
+learning|Open Culture|https://www.openculture.com/|free|discovery|video,audio,text|topic|Curated courses, films and educational collections; verify original rights and links.|free history courses

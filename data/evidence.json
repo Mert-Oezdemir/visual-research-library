@@ -1,0 +1,167 @@
+{
+  "PlayPhrase.me": {
+    "url": "https://learn.playphrase.me/guides/find-movie-from-partial-quote/",
+    "note": "Official quote-search guide; no reuse grant established.",
+    "checked_on": "2026-11-24"
+  },
+  "Clip.Cafe": {
+    "url": "https://clip.cafe/",
+    "note": "Official catalog describes dialogue search and filters.",
+    "checked_on": "2026-11-24"
+  },
+  "YARN": {
+    "url": "https://www.rubberneck.ai/yarn",
+    "note": "Provider describes dialogue and reaction search; check current access.",
+    "checked_on": "2026-11-24"
+  },
+  "Flim": {
+    "url": "https://flim.ai/search-engine",
+    "note": "Official visual-reference search; clips are references, not stock clearance.",
+    "checked_on": "2026-11-24"
+  },
+  "ShotDeck": {
+    "url": "https://shotdeck.com/",
+    "note": "Official catalog describes searchable frames and limited clip-export features.",
+    "checked_on": "2026-11-24"
+  },
+  "Filmot": {
+    "url": "https://filmot.com/faq",
+    "note": "Official FAQ confirms caption search; captions may be missing or erroneous.",
+    "checked_on": "2026-11-24"
+  },
+  "WatchPhrase": {
+    "url": "https://watchphrase.com/",
+    "note": "Official subtitle search interface; paid features vary.",
+    "checked_on": "2026-11-24"
+  },
+  "YouGlish": {
+    "url": "https://youglish.com/about?layout=1",
+    "note": "Official description confirms real-world video phrase search across accents.",
+    "checked_on": "2026-11-24"
+  },
+  "Pexels": {
+    "url": "https://www.pexels.com/license/",
+    "note": "Official free stock license; check restrictions and third-party rights.",
+    "checked_on": "2026-11-24"
+  },
+  "Pixabay": {
+    "url": "https://pixabay.com/service/license-summary/",
+    "note": "Official content license; no standalone resale and other restrictions.",
+    "checked_on": "2026-11-24"
+  },
+  "Mixkit": {
+    "url": "https://mixkit.co/license/",
+    "note": "Official license distinguishes Free and Restricted video licenses.",
+    "checked_on": "2026-11-24"
+  },
+  "Find Any Footage": {
+    "url": "https://findanyfootage.com/docs",
+    "note": "Official scene-level search and MCP documentation; US public-domain labels need local confirmation.",
+    "checked_on": "2026-11-24"
+  },
+  "US National Archives": {
+    "url": "https://www.archives.gov/research/motion-pictures/permissions",
+    "note": "Official media permissions guidance; US government and privately sourced material differ.",
+    "checked_on": "2026-11-24"
+  },
+  "Library of Congress National Screening Room": {
+    "url": "https://www.loc.gov/collections/national-screening-room/about-this-collection/",
+    "note": "Official collection description confirms both copyrighted and public-domain movies.",
+    "checked_on": "2026-11-24"
+  },
+  "Europeana": {
+    "url": "https://pro.europeana.eu/index.php/page/available-rights-statements",
+    "note": "Official explanation of item-level rights statements.",
+    "checked_on": "2026-11-24"
+  },
+  "NASA Scientific Visualization Studio": {
+    "url": "https://svs.gsfc.nasa.gov/help/",
+    "note": "Official media guidance; visualizations and soundtrack may have different rights.",
+    "checked_on": "2026-11-24"
+  },
+  "PhET": {
+    "url": "https://phet.colorado.edu/en/licensing/",
+    "note": "Regular HTML simulations currently CC BY-NC 4.0; screenshot and video terms included.",
+    "checked_on": "2026-11-24"
+  },
+  "Servier Medical Art": {
+    "url": "https://smart.servier.com/terms-of-use/",
+    "note": "Official CC BY 4.0 illustrations license.",
+    "checked_on": "2026-11-24"
+  },
+  "CDC B-roll": {
+    "url": "https://www.cdc.gov/media/b-roll/index.html",
+    "note": "Official media resource page confirms field B-roll.",
+    "checked_on": "2026-11-24"
+  },
+  "Blender Studio Films": {
+    "url": "https://studio.blender.org/films/",
+    "note": "Official open movie list; individual projects specify rights, e.g. https://studio.blender.org/projects/spring/pages/about/",
+    "checked_on": "2026-11-24"
+  },
+  "Natural Earth": {
+    "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "note": "Official public-domain terms.",
+    "checked_on": "2026-11-24"
+  },
+  "OpenHistoricalMap": {
+    "url": "https://wiki.openstreetmap.org/wiki/OpenHistoricalMap/License",
+    "note": "Project documentation states CC0 by default with exceptions.",
+    "checked_on": "2026-11-24"
+  },
+  "Our World in Data": {
+    "url": "https://ourworldindata.org/faqs",
+    "note": "Official guidance: own content CC BY; third-party data separately licensed.",
+    "checked_on": "2026-11-24"
+  },
+  "Wikimedia Commons": {
+    "url": "https://commons.wikimedia.org/wiki/Commons:REUSE",
+    "note": "Official file-level reuse and attribution guidance.",
+    "checked_on": "2026-11-24"
+  },
+  "Openverse": {
+    "url": "https://openverse.org/uk/about",
+    "note": "Official FAQ: native search covers images and audio, not video.",
+    "checked_on": "2026-11-24"
+  },
+  "Smithsonian Open Access": {
+    "url": "https://www.si.edu/openaccess/faq",
+    "note": "Official CC0 guidance for marked items.",
+    "checked_on": "2026-11-24"
+  },
+  "Smithsonian 3D": {
+    "url": "https://www.si.edu/spotlight/openaccesshighlights",
+    "note": "Official CC0 guidance for eligible 3D objects.",
+    "checked_on": "2026-11-24"
+  },
+  "Poly Haven": {
+    "url": "https://polyhaven.com/license",
+    "note": "Official CC0 asset license and distinct website terms.",
+    "checked_on": "2026-11-24"
+  },
+  "YouTube Audio Library": {
+    "url": "https://support.google.com/youtube/answer/3376882",
+    "note": "Official audio library usage and attribution guidance.",
+    "checked_on": "2026-11-24"
+  },
+  "Freesound": {
+    "url": "https://freesound.org/help/faq/",
+    "note": "Official FAQ confirms CC license filters and attribution obligations.",
+    "checked_on": "2026-11-24"
+  },
+  "Pixabay Music and SFX": {
+    "url": "https://pixabay.com/service/faq/",
+    "note": "Official guidance on download evidence and music claims.",
+    "checked_on": "2026-11-24"
+  },
+  "Mixkit Sound Effects": {
+    "url": "https://mixkit.co/license/",
+    "note": "Official asset-type license page; verify audio-specific terms.",
+    "checked_on": "2026-11-24"
+  },
+  "OpenAlex": {
+    "url": "https://help.openalex.org/data/how-its-built/",
+    "note": "Official metadata sources and access documentation.",
+    "checked_on": "2026-11-24"
+  }
+}

@@ -1,0 +1,28 @@
+name: Suggest or correct a source
+description: Add a resource, report a broken link, or correct its rights/metadata
+title: '[Source] '
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Official source URL
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What can users find? Category, formats, search, access and example queries
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: Official license/evidence URL, what was checked and date
+      description: Do not upload copyrighted files or private data.
+  - type: checkboxes
+    id: check
+    attributes:
+      label: Confirmation
+      options:
+        - label: I checked for duplicates and did not include copyrighted media or credentials.
+          required: true
